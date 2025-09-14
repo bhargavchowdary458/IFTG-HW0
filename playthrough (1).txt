@@ -1,0 +1,28 @@
+THE MOONLIT SHRINE — Playthrough
+
+Commands to win the game quickly:
+
+look
+take torch
+take note
+go east
+take rope
+go south
+go north
+go west
+go north
+go west
+take flint
+take iron key
+light torch
+go east
+go south
+go east
+use rope on post
+go east
+open gate
+go east
+take moon idol
+read tablet
+go east
+use idol
